@@ -3,7 +3,6 @@ layout: home
 title: Tcheuling de Meudon
 ---
 
-
 Situé à Meudon-La-Forêt, le Tcheuling (jardin du Dharma) est un petit lieu du
 Dharma en ville, proche de Vélizy-Villacoublay, Chaville, Viroflay, Versailles,
 Sèvres, Clamart, Issy les Moulineaux, Le Plessis Robinson, Châtenay-Malabry,
