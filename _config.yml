@@ -1,0 +1,36 @@
+# Site settings
+
+remote_theme: jekyll/minima
+exclude: [bundle]
+
+title: Tcheuling de Meudon
+email: tcheulingdemeudon@orange.fr
+description: >
+  Méditation à Meudon - Tcheuling de Meudon (à 10km de Paris), lieu dédié à
+  l'enseignement et à la pratique de la méditation dans la tradition du bouddhisme
+  tibétain sous la direction spirituelle de Lama Tsultrim. Affilié à
+  Bodhicharya-France.
+baseurl: ""
+url: "https://tcheulingdemeudon.github.io"
+
+# Build settings
+markdown: kramdown
+plugins:
+
+header_pages:
+  - index.md
+  - comment-venir.md
+  - adhesion.md
+
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
