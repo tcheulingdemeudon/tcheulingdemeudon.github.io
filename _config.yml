@@ -13,24 +13,13 @@ description: >
 baseurl: ""
 url: "https://tcheulingdemeudon.github.io"
 
-# Build settings
-markdown: kramdown
-plugins:
-
 header_pages:
   - index.md
   - comment-venir.md
   - adhesion.md
+  
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
 
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
