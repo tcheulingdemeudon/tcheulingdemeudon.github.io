@@ -12,14 +12,14 @@ Les mercredi ordinaires, nous pratiquons diverses formes de méditations, en
 fonction de l'expérience et des besoins des personnes présentes :
 
 - Calme mental (Shiné en tibétain, Samatha en sanscrit) dont l'objectif est de
-trouver la paix de l'esprit ;
+trouver la paix de l'esprit.
 
 - Vision pénétrante (Lhagtong en tibétain, Vipassana en sanscrit) visant à
-comprendre profondément  la nature de l'esprit ;
+comprendre profondément la nature de l'esprit.
 
 - Mahamoudra (Tcha Gya Tchènpo en tibétain) union de Shiné et Lhagtong, propre à
 la lignée Karma Kagyu, dont le but est l'éveil, la réalisation spirituelle. Le
-Mahamoudra est apparenté au Dzogchen ;
+Mahamoudra est apparenté au Dzogchen.
 
 - Tchenrézi, une des pratiques du Vajrayana les plus accessibles pour les
 débutants, permet de cultiver les qualités fondamentales de l'esprit (amour,
