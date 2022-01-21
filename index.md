@@ -45,10 +45,9 @@ Lama Tsultrim Guélek, disciple des vénérables Kalou Rinpotché, Bokar Rinpotc
 et Ringou Rinpotché, ainsi que le moine Orgyen, résident au centre monastique
 Bodhicharya-France, dans les Vosges.
 
-Le prochain enseignement offert par le moine Orgyen aura lieu le : **mercredi 19
-janvier 2022 à 19h.**
-
 ## Calendrier des enseignements à Meudon en 2022
+
+Le prochain enseignement offert par Lama Tsultrim aura lieu le **week-end du 12 et 13 mars 2022.**
 
 |---
 | Date                | Enseignement                                                                                    |
@@ -72,10 +71,8 @@ Chez NOTTALE (interphone)
 
 ## Pour nous contacter
 
-Responsable : Pablo Oliveira
-
 Courriel : [tcheulingdemeudon@orange.fr](mailto:tcheulingdemeudon@orange.fr)
 
-Téléphone : 06 88 25 24 77
+Téléphone : 06 88 25 24 77 (Pablo)
 
 Si vous voulez être rappelé, merci de laisser un message.
