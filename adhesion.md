@@ -15,7 +15,7 @@ d'enseignement mensuel au Tcheuling avant d'adhérer à l'association.
 
 ## Offrande
 
-l'association prend en charge les frais de transport liés aux
+L'association prend en charge les frais de transport liés aux
 enseignements mais ne rémunère pas l'enseignant. Celui-ci fait donc le don de
 ses enseignements ; une enveloppe circule à la fin de la session pour permettre
 à chacun d'exprimer sa générosité en fonction de ses moyens et de la valeur
