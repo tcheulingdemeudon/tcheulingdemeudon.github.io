@@ -11,10 +11,10 @@ Bièvres, Jouy-en-Josas, Boulogne-Billancourt, et Paris bien sûr.
 Les mercredi ordinaires, nous pratiquons diverses formes de méditations, en
 fonction de l'expérience et des besoins des personnes présentes :
 
-- Calme mental (Shiné en tibétain, Samatha en sanscrit) dont l'objectif est de
+- Calme mental (shiné en tibétain, śamatha en sanscrit) dont l'objectif est de
 trouver la paix de l'esprit.
 
-- Vision pénétrante (Lhagtong en tibétain, Vipassana en sanscrit) visant à
+- Vision pénétrante (lhagtong en tibétain, vipaśyanā en sanscrit) visant à
 comprendre profondément la nature de l'esprit.
 
 - Mahamoudra (Tcha Gya Tchènpo en tibétain) union de Shiné et Lhagtong, propre à
