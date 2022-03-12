@@ -1,3 +1,8 @@
+---
+layout: page 
+title: Prière à la lignée
+---
+
 ## Prière à la lignée de Dordjé Tchang Toungma
 
 Grand Vajradhara, Tilopa, Naropa,
