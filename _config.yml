@@ -17,6 +17,7 @@ header_pages:
   - index.md
   - comment-venir.md
   - adhesion.md
+  - priere-lignee.md
   
 # Build settings
 markdown: kramdown
