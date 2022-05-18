@@ -45,18 +45,18 @@ Lama Tsultrim Guélek, disciple des vénérables Kalou Rinpotché, Bokar Rinpotc
 et Ringou Rinpotché, ainsi que le moine Orgyen, résident au centre monastique
 Bodhicharya-France, dans les Vosges.
 
-## Calendrier des enseignements à Meudon en 2022
+## Calendrier des enseignements à Meudon en 2022-2023
 
-Le prochain enseignement offert par Lama Tsultrim aura lieu le **week-end du 12 et 13 mars 2022.**
+Le prochain enseignement offert par le moine Orgyen au Tcheuling de Meudon aura lieu le mercredi 21 septembre 2022.
+Des enseignements en ligne seront également proposés au mois de juin 2022.
 
-|---
-| Date                | Enseignement                                                                                    |
-| :------------------ | :---------------------------------------------------------------------------------------------- |
-| mercredi 19 janvier | 19h, moine Orgyen                                                                               |
-| 12 et 13 mars       | week-end de pratique avec Lama Tsultrim, sur [inscription](mailto:tcheulingdemeudon@orange.fr). |
-| mercredi 16 mars    | 19h, moine Orgyen                                                                               |
-| mercredi 13 avril   | 19h, moine Orgyen                                                                               |
-| mercredi 11 mai     | 19h, moine Orgyen                                                                               |
+| Date                     | Enseignement                                                                               |
+| :----------------------- | :------------------------------------------------------------------------------------------|
+| mercredi 21 septembre    | 19h, moine Orgyen                                                                          |
+| mercredi 12 octobre      | 19h, moine Orgyen                                                                          |
+| mercredi 9 novembre      | 19h, moine Orgyen                                                                          |
+| mercredi 7 décembre      | 19h, moine Orgyen                                                                          |
+| mercredi 18 janvier 2023 | 19h, moine Orgyen                                                                          |
 
 Les dates suivantes seront diffusées ultérieurement.
 
