@@ -47,11 +47,12 @@ Bodhicharya-France, dans les Vosges.
 
 ## Calendrier des enseignements à Meudon en 2022-2023
 
-Le prochain enseignement offert par le moine Orgyen au Tcheuling de Meudon aura lieu le mercredi 21 septembre 2022.
-Des enseignements en ligne seront également proposés au mois de juin 2022.
+Le prochain enseignement offert par le moine Orgyen au Tcheuling de Meudon aura lieu le mercredi 21 septembre 2022, des enseignements en ligne sont proposés au mois de juin.
 
 | Date                     | Enseignement                                                                               |
 | :----------------------- | :------------------------------------------------------------------------------------------|
+| jeudi 2 juin             | 20h, moine Orgyen [en ligne](https://bodhicharya-france.org/index.php/fr/359-enseignements-tcheulings-par-le-moine-orgyen-5.)|
+| jeudi 9 juin             | 20h, moine Orgyen [en ligne](https://bodhicharya-france.org/index.php/fr/359-enseignements-tcheulings-par-le-moine-orgyen-5.)|
 | mercredi 21 septembre    | 19h, moine Orgyen                                                                          |
 | mercredi 12 octobre      | 19h, moine Orgyen                                                                          |
 | mercredi 9 novembre      | 19h, moine Orgyen                                                                          |
