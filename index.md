@@ -45,19 +45,16 @@ Lama Tsultrim Guélek, disciple des vénérables Kalou Rinpotché, Bokar Rinpotc
 et Ringou Rinpotché, ainsi que le moine Orgyen, résident au centre monastique
 Bodhicharya-France, dans les Vosges.
 
-## Calendrier des enseignements à Meudon en 2022-2023
+## Calendrier des enseignements à Meudon en 2023 (janvier - juin)
 
-Le prochain enseignement offert par le moine Orgyen au Tcheuling de Meudon aura lieu le mercredi 21 septembre 2022, des enseignements en ligne sont proposés au mois de juin.
 
 | Date                     | Enseignement                                                                               |
 | :----------------------- | :------------------------------------------------------------------------------------------|
-| jeudi 2 juin             | 20h, moine Orgyen [en ligne](https://bodhicharya-france.org/index.php/fr/359-enseignements-tcheulings-par-le-moine-orgyen-5.)|
-| jeudi 9 juin             | 20h, moine Orgyen [en ligne](https://bodhicharya-france.org/index.php/fr/359-enseignements-tcheulings-par-le-moine-orgyen-5.)|
-| mercredi 21 septembre    | 19h, moine Orgyen                                                                          |
-| mercredi 12 octobre      | 19h, moine Orgyen                                                                          |
-| mercredi 9 novembre      | 19h, moine Orgyen                                                                          |
-| mercredi 7 décembre      | 19h, moine Orgyen                                                                          |
 | mercredi 18 janvier 2023 | 19h, moine Orgyen                                                                          |
+| mercredi 15 mars         | 19h, moine Orgyen                                                                          |
+| mercredi 12 avril        | 19h, moine Orgyen                                                                          |     
+| mercredi 10 mai          | 19h, moine Orgyen                                                                          |     
+| mercredi 7 juin          | 19h, moine Orgyen                                                                         
 
 Les dates suivantes seront diffusées ultérieurement.
 
@@ -74,6 +71,6 @@ Chez NOTTALE (interphone)
 
 Courriel : [tcheulingdemeudon@orange.fr](mailto:tcheulingdemeudon@orange.fr)
 
-Téléphone : 06 88 25 24 77 (Pablo)
+Téléphone : 06 87 76 84 90 (Laurent)
 
 Si vous voulez être rappelé, merci de laisser un message.
