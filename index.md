@@ -54,7 +54,7 @@ Bodhicharya-France, dans les Vosges.
 | mercredi 15 mars         | 19h, moine Orgyen                                                                          |
 | mercredi 12 avril        | 19h, moine Orgyen                                                                          |     
 | mercredi 10 mai          | 19h, moine Orgyen                                                                          |     
-| mercredi 7 juin          | 19h, moine Orgyen                                                                         
+| mercredi 14 juin         | 19h, moine Orgyen                                                                         
 
 Les dates suivantes seront diffusées ultérieurement.
 
