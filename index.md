@@ -45,16 +45,18 @@ Lama Tsultrim Guélek, disciple des vénérables Kalou Rinpotché, Bokar Rinpotc
 et Ringou Rinpotché, ainsi que le moine Orgyen, résident au centre monastique
 Bodhicharya-France, dans les Vosges.
 
-## Calendrier des enseignements à Meudon en 2023 (janvier - juin)
+## Calendrier des enseignements à Meudon au second semestre 2023
 
 
-| Date                     | Enseignement                                                                               |
-| :----------------------- | :------------------------------------------------------------------------------------------|
-| mercredi 18 janvier 2023 | 19h, moine Orgyen                                                                          |
-| mercredi 15 mars         | 19h, moine Orgyen                                                                          |
-| mercredi 12 avril        | 19h, moine Orgyen                                                                          |     
-| mercredi 10 mai          | 19h, moine Orgyen                                                                          |     
-| mercredi 14 juin         | 19h, moine Orgyen                                                                         
+| Date                       | Enseignement                                                                               |
+| :------------------------- | :------------------------------------------------------------------------------------------|
+| mercredi 20 septembre 2023 | 19h, moine Orgyen                                                                          |
+| mercredi 18 octobre        | 19h, moine Orgyen                                                                          |
+| mercredi 15 novembre       | 19h, moine Orgyen                                                                          |     
+| mercredi 13 décembre       | 19h, moine Orgyen                                                                          |     
+| mercredi 17 janvier 2024   | 19h, moine Orgyen                                                                         
+
+Pas d'enseignement en février 2024.
 
 Les dates suivantes seront diffusées ultérieurement.
 
