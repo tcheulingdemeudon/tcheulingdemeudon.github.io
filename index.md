@@ -25,7 +25,7 @@ Mahamoudra est apparenté au Dzogchen.
 débutants, permet de cultiver les qualités fondamentales de l'esprit (amour,
 compassion, joie, équanimité).
 
-## Enseignements
+## Enseignements et méditation
 
 Le Tcheuling de Meudon vous accueille tous les mercredi à 19h à Meudon la Forêt
 pour une pratique de la méditation dans la tradition du bouddhisme tibétain
