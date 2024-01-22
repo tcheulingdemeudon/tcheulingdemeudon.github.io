@@ -45,18 +45,16 @@ Lama Tsultrim Guélek, disciple des vénérables Kalou Rinpotché, Bokar Rinpotc
 et Ringou Rinpotché, ainsi que le moine Orgyen, résident au centre monastique
 Bodhicharya-France, dans les Vosges.
 
-## Calendrier des enseignements à Meudon début 2024
+## Calendrier des enseignements à Meudon au premier semestre 2024
 
+Pas d'enseignement en février 2024.
 
 | Date                       | Enseignement                                                                               |
 | :------------------------- | :------------------------------------------------------------------------------------------|
-| mercredi 17 janvier 2024   | 19h30, moine Orgyen                                                                        |
 | mercredi 13 mars 2024      | 19h30, moine Orgyen                                                                        |
 | mercredi 10 avril 2024     | 19h30, moine Orgyen                                                                        |
 | mercredi 15 mai 2024       | 19h30, moine Orgyen                                                                        |
 | mercredi 12 juin 2024      | 19h30, moine Orgyen                                                                        |
-
-Pas d'enseignement en février 2024.
 
 Les dates suivantes seront diffusées ultérieurement.
 
