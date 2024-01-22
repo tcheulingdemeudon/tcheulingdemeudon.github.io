@@ -51,6 +51,10 @@ Bodhicharya-France, dans les Vosges.
 | Date                       | Enseignement                                                                               |
 | :------------------------- | :------------------------------------------------------------------------------------------|
 | mercredi 17 janvier 2024   | 19h30, moine Orgyen                                                                        |
+| mercredi 13 mars 2024      | 19h30, moine Orgyen                                                                        |
+| mercredi 10 avril 2024     | 19h30, moine Orgyen                                                                        |
+| mercredi 15 mai 2024       | 19h30, moine Orgyen                                                                        |
+| mercredi 12 juin 2024      | 19h30, moine Orgyen                                                                        |
 
 Pas d'enseignement en février 2024.
 
