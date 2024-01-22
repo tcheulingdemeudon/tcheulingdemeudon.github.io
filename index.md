@@ -33,7 +33,7 @@ pour une pratique de la méditation dans la tradition du bouddhisme tibétain
 pratique et d'enseignement donnée par le moine Orgyen.
 
 <figure>
-  <p><img src="/assets/img/inauguration.jpg" /></p>
+  <p><img src="/assets/img/inauguration.jpg" alt="Méditation à Meudon" /></p>
   <figcaption>Inauguration du Tcheuling de Meudon. Ringou Tulkou Rinpotché et Lama Tsultrim Guélek.</figcaption>
 </figure>
 
