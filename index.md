@@ -27,9 +27,9 @@ compassion, joie, équanimité).
 
 ## Enseignements et méditation
 
-Le Tcheuling de Meudon vous accueille tous les mercredi à 19h à Meudon la Forêt
+Le Tcheuling de Meudon vous accueille tous les mercredi à 19h30 à Meudon la Forêt
 pour une pratique de la méditation dans la tradition du bouddhisme tibétain
-(lignée Kagyu), et une fois par mois, toujours à 19h, pour une soirée de
+(lignée Kagyu), et une fois par mois, toujours à 19h30, pour une soirée de
 pratique et d'enseignement donnée par le moine Orgyen.
 
 <figure>
