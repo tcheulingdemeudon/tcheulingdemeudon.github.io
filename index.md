@@ -45,7 +45,7 @@ Lama Tsultrim Guélek, disciple des vénérables Kalou Rinpotché, Bokar Rinpotc
 et Ringou Rinpotché, ainsi que le moine Orgyen, résident au centre monastique
 Bodhicharya-France, dans les Vosges.
 
-## Calendrier des enseignements à Meudon au second semestre 2023
+## Calendrier des enseignements à Meudon début 2024
 
 
 | Date                       | Enseignement                                                                               |
