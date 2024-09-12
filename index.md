@@ -29,7 +29,7 @@ compassion, joie, équanimité).
 
 Le Tcheuling de Meudon vous accueille tous les mercredi à 19h à Meudon la Forêt
 pour une pratique de la méditation dans la tradition du bouddhisme tibétain
-(lignée Kagyu), et une fois par mois, toujours à 19h30, pour une soirée de
+(lignée Kagyu), et une fois par mois, toujours à 19h, pour une soirée de
 pratique et d'enseignement donnée par le moine Orgyen.
 
 <figure>
@@ -45,16 +45,16 @@ Lama Tsultrim Guélek, disciple des vénérables Kalou Rinpotché, Bokar Rinpotc
 et Ringou Rinpotché, ainsi que le moine Orgyen, résident au centre monastique
 Bodhicharya-France, dans les Vosges.
 
-## Calendrier des enseignements à Meudon au premier semestre 2024
+## Calendrier des enseignements à Meudon au second semestre 2024
 
-Pas d'enseignement en février 2024.
+Pas d'enseignement en novembre 2024.
 
 | Date                       | Enseignement                                                                               |
 | :------------------------- | :------------------------------------------------------------------------------------------|
-| mercredi 13 mars 2024      | 19h30, moine Orgyen                                                                        |
-| mercredi 10 avril 2024     | 19h30, moine Orgyen                                                                        |
-| mercredi 15 mai 2024       | 19h30, moine Orgyen                                                                        |
-| mercredi 12 juin 2024      | 19h30, moine Orgyen                                                                        |
+| mercredi 18 septembre 2024      | 19h, moine Orgyen                                                                        |
+| mercredi 16 octobre 2024     | 19h, moine Orgyen                                                                        |
+| mercredi 11 décembre 2024       | 19h, moine Orgyen                                                                        |
+
 
 Les dates suivantes seront diffusées ultérieurement.
 
