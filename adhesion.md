@@ -8,7 +8,7 @@ title: Adhésion
 
 Pour participer aux activités de Bodhicharya-France et du Tcheuling de Meudon,
 il faut être membre de l'association
-[Bodhicharya-France](https://www.bodhicharya-france.org/index.php/fr/adhesion-cotisation).
+[Bodhicharya-France](https://www.bodhicharya-france.org/index.php/adhesion-cotisation).
 
 Il est possible aux nouveaux arrivants d'assister librement à deux soirées
 d'enseignement mensuel au Tcheuling avant d'adhérer à l'association.
