@@ -48,7 +48,6 @@ Bodhicharya-France, dans les Vosges.
 ## Calendrier des enseignements à Meudon au second semestre 2024
 
 
-
 | Date                       | Enseignement                                                                             |
 | :------------------------- | :----------------------------------------------------------------------------------------|
 | mercredi 18 septembre 2024 | 19h, moine Orgyen                                                                        |
