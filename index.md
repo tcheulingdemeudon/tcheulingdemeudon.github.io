@@ -45,13 +45,19 @@ Lama Tsultrim Guélek, disciple des vénérables Kalou Rinpotché, Bokar Rinpotc
 et Ringou Rinpotché, ainsi que le moine Orgyen, résident au centre monastique
 Bodhicharya-France, dans les Vosges.
 
-## Calendrier des enseignements à Meudon au second semestre 2024
+## Calendrier des enseignements à Meudon en 2025
 
 | Date                       | Enseignement                                                                             |
 | :------------------------- | :----------------------------------------------------------------------------------------|
-| mercredi 18 septembre 2024 | 19h, moine Orgyen                                                                        |
-| mercredi 16 octobre 2024   | 19h, moine Orgyen                                                                        |
-| mercredi 11 décembre 2024  | 19h, moine Orgyen                                                                        |
+| mercredi 15 janvier 2025   | 19h, moine Orgyen                                                                        |
+| mercredi 12 mars 2025      | 19h, moine Orgyen                                                                        |
+| mercredi 9 avril 2025  | 19h, moine Orgyen                                                                        |
+| mercredi 14 mai 2025  | 19h, moine Orgyen                                                                        |
+| mercredi 11 juin 2025  | 19h, moine Orgyen                                                                        |
+| mercredi 17 septembre 2025  | 19h, moine Orgyen                                                                        |
+| mercredi 15 octobre 2025  | 19h, moine Orgyen                                                                        |
+| mercredi 12 novembre 2025  | 19h, moine Orgyen                                                                        |
+| mercredi 10 décembre 2025  | 19h, moine Orgyen                                                                        |
 
 L'enseignement débute à 19h précise, merci de vous présenter au moins dix minutes avant l'heure indiquée.
 
