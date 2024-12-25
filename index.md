@@ -61,10 +61,6 @@ Bodhicharya-France, dans les Vosges.
 
 L'enseignement débute à 19h précise, merci de vous présenter au moins dix minutes avant l'heure indiquée.
 
-Il n'y a pas d'enseignement prévu en novembre 2024.
-
-Les dates suivantes seront diffusées ultérieurement.
-
 ## Pour nous rendre visite
 
 Tcheuling de Meudon
