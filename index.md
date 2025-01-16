@@ -50,12 +50,13 @@ Bodhicharya-France, dans les Vosges.
 | Date                       | Enseignement                                                                             |
 | :------------------------- | :----------------------------------------------------------------------------------------|
 | mercredi 15 janvier 2025   | 19h, moine Orgyen                                                                        |
+| mercredi 12 février 2025   | 19h, moine Orgyen                                                                        |
 | mercredi 12 mars 2025      | 19h, moine Orgyen                                                                        |
-| mercredi 9 avril 2025  | 19h, moine Orgyen                                                                        |
-| mercredi 14 mai 2025  | 19h, moine Orgyen                                                                        |
-| mercredi 11 juin 2025  | 19h, moine Orgyen                                                                        |
-| mercredi 17 septembre 2025  | 19h, moine Orgyen                                                                        |
-| mercredi 15 octobre 2025  | 19h, moine Orgyen                                                                        |
+| mercredi 9 avril 2025      | 19h, moine Orgyen                                                                        |
+| mercredi 14 mai 2025       | 19h, moine Orgyen                                                                        |
+| mercredi 11 juin 2025      | 19h, moine Orgyen                                                                        |
+| mercredi 17 septembre 2025 | 19h, moine Orgyen                                                                        |
+| mercredi 15 octobre 2025   | 19h, moine Orgyen                                                                        |
 | mercredi 12 novembre 2025  | 19h, moine Orgyen                                                                        |
 | mercredi 10 décembre 2025  | 19h, moine Orgyen                                                                        |
 
