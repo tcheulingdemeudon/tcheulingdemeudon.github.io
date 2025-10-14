@@ -49,12 +49,15 @@ Bodhicharya-France, dans les Vosges.
 
 | Date                       | Enseignement                                                                             |
 | :------------------------- | :----------------------------------------------------------------------------------------|
-| mercredi 11 juin 2025      | 19h, moine Orgyen                                                                        |
 | mercredi 15 octobre 2025   | 19h, moine Orgyen                                                                        |
 | mercredi 12 novembre 2025  | 19h, moine Orgyen                                                                        |
 | mercredi 10 décembre 2025  | 19h, moine Orgyen                                                                        |
 | mercredi 21 janvier 2026  | 19h, moine Orgyen                                                                        |
 | mercredi 18 février 2026  | 19h, moine Orgyen                                                                        |
+| mercredi 18 mars 2026  | 19h, moine Orgyen                                                                        |
+| mercredi 15 avril 2026  | 19h, moine Orgyen                                                                        |
+| mercredi 13 mai 2026  | 19h, moine Orgyen                                                                        |
+| mercredi 10 juin 2026  | 19h, moine Orgyen                                                                        |
 
 L'enseignement débute à 19h précise, merci de vous présenter au moins dix minutes avant l'heure indiquée.
 
